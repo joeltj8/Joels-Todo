@@ -5,6 +5,6 @@ Hello World! Todo App of scotch.io learning.
 1. Node.js
 2. MongoDB
 
-Steps for up and running
+##Steps for up and running
 1. npm install
 2. node server.js
